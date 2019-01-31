@@ -10,7 +10,7 @@
 #include "MSAOpenCL_CV.h"
 #include "MSAUtils.h"
 
-namespace MSA {
+namespace msa {
 	
 	OpenCL_CV	cv;
 	

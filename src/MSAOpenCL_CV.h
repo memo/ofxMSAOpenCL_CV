@@ -22,7 +22,7 @@
 #define kOpenCL_Arg_CV_OpticalFlow_lambda		5
 #define kOpenCL_Arg_CV_OpticalFlow_scale		6
 
-namespace MSA {
+namespace msa {
 	
 	typedef struct {
 		bool			enabled;
